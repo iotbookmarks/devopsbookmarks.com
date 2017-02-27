@@ -5,8 +5,8 @@
                 <h2>Discover tools and frameworks in the DevOps landscape.</h2>
                 <h3>There are new awesome tools and frameworks being released everyday. This is an open and transparent
                     attempt at aggregating all those. The entire source code and list of tools can be found at <a
-                            href="http://github.com/devOpsbookmarks">github.com/devOpsbookmarks</a>, and you are encouraged
-                    to <a href="https://github.com/devOpsbookmarks/devOpsbookmarks.xyz/blob/master/CONTRIBUTING.md">contribute
+                            href="http://github.com/iotbookmarks">github.com/iotbookmarks</a>, and you are encouraged
+                    to <a href="https://github.com/iotbookmarks/iotbookmarks.xyz/blob/master/CONTRIBUTING.md">contribute
                         anything</a> you come across.</h3>
                 <h3>Pick tags to start exploring!</h3>
             </div>

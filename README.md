@@ -1,6 +1,6 @@
-# DevOps Bookmarks
+# IoT Bookmarks
 
-> To discover tools in the DevOps landscape.
+> To discover tools in the IoT landscape.
 
 There are new awesome tools, frameworks and platforms being released everyday.
 This is an open and transparent attempt at aggregating all these.
@@ -9,7 +9,7 @@ This is an open and transparent attempt at aggregating all these.
 
 ## Contributing
 
-Refer to [CONTRIBUTING.md](https://github.com/devopsbookmarks/devopsbookmarks.com/blob/master/CONTRIBUTING.md)
+Refer to [CONTRIBUTING.md](https://github.com/iotbookmarks/iotbookmarks.xyz/blob/master/CONTRIBUTING.md)
 
 ## Development
 

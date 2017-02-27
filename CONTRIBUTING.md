@@ -13,16 +13,8 @@
         "description": "<Description>",
         "url": "<URL to project homepage>",
         "tags": [
-          // Mention Platform
-          // ref: https://github.com/devopsbookmarks/devopsbookmarks.com/blob/master/data/platforms.json
-          "linux",
-          "windows",
-          "osx",
-          "bsd",
-          "solaris",
-
           // Mention License
-          // ref: https://github.com/devopsbookmarks/devopsbookmarks.com/blob/master/data/licenses.json
+          // ref: https://github.com/iotbookmarks/iotbookmarks.xyz/blob/master/data/dimensions/licenses.json
           "open-source",
           "free",
           "commercial",
@@ -30,9 +22,9 @@
           // And add tags related to this tool
           // Tags are grouped into topic
           // Cross verify if these tags belong to a topic
-          // ref: https://github.com/devopsbookmarks/devopsbookmarks.com/blob/master/data/topics.json
-          "scm",
-          "vcs",
+          // ref: https://github.com/iotbookmarks/iotbookmarks.xyz/blob/master/data/dimensions/topics.json
+          "sensor",
+          "network",
           etc.
         ]
       }

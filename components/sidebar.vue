@@ -1,7 +1,7 @@
 <template>
     <div class="nav">
         <div class="logo">
-            <nuxt-link to="/"><h1>DevOps Bookmarks</h1></nuxt-link>
+            <nuxt-link to="/"><h1>IoT Bookmarks</h1></nuxt-link>
         </div>
 
         <div class="menu">
@@ -20,8 +20,8 @@
         </div>
         <div class="meta menu">
             <h3>Meta</h3>
-            <a href="https://github.com/devopsbookmarks/devopsbookmarks.com/blob/master/CONTRIBUTING.md">Submit a tool</a>
-            <a href="https://github.com/devopsbookmarks/devopsbookmarks.com/blob/master/README.md">About</a>
+            <a href="https://github.com/iotbookmarks/iotbookmarks.xyz/blob/master/CONTRIBUTING.md">Submit a tool</a>
+            <a href="https://github.com/iotbookmarks/iotbookmarks.xyz/blob/master/README.md">About</a>
         </div>
 
     </div>
