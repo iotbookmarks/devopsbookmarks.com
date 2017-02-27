@@ -1,14 +1,11 @@
-# Devops Bookmarks
+# DevOps Bookmarks
 
-> To discover tools in the devops landscape.
+> To discover tools in the DevOps landscape.
 
-There are new awesome tools and frameworks being released everyday.
-This is an open and transparent attempt at aggregating all these tools
-and frameworks.
+There are new awesome tools, frameworks and platforms being released everyday.
+This is an open and transparent attempt at aggregating all these.
 
 ## Deployment Status
-
-[![Build Status](https://snap-ci.com/devopsbookmarks/devopsbookmarks.com/branch/master/build_image)](https://snap-ci.com/devopsbookmarks/devopsbookmarks.com/branch/master)
 
 ## Contributing
 
@@ -16,13 +13,13 @@ Refer to [CONTRIBUTING.md](https://github.com/devopsbookmarks/devopsbookmarks.co
 
 ## Development
 
-* Make sure you have VirtualBox and Vagrant installed
 * Clone this repository
-* Run `vagrant up` to provision the VM
-* Run `vagrant ssh -c /vagrant/script/server` to start the server
+* Run `yarn` to install dependencies
+* Run `yarn dev` to start the server
 
 ## Inspiration
 
+* http://devopsbookmarks.com/
 * http://www.unheap.com/
 * https://www.ruby-toolbox.com/
 * http://microjs.com/

@@ -1,4 +1,4 @@
-### 
+###
 ### Created by https://www.gitignore.io
 ### AUTO GENERATED: DO NOT EDIT
 ### ADD CUSTOM IGNORES AT THE BOTTOM
@@ -129,5 +129,5 @@ tmp/
 log/
 tags
 *.numbers
-public/stylesheets/application.css
-
+.nuxt
+.idea

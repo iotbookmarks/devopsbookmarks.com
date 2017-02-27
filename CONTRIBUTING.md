@@ -26,7 +26,7 @@
           "open-source",
           "free",
           "commercial",
-          
+
           // And add tags related to this tool
           // Tags are grouped into topic
           // Cross verify if these tags belong to a topic
@@ -40,5 +40,5 @@
     ```
 * Raise a pull request
 * Discuss in the pull request
-* Once its merged, enjoy the satisfaction of contributing. Snap-CI will do the rest.
+* Once its merged, enjoy the satisfaction of contributing. CI will do the rest.
 p
