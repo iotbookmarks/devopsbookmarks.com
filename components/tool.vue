@@ -4,10 +4,6 @@
             <h2><a :href="tool.url" rel="nofollow">{{ tool.name }}</a></h2>
             <p>{{ tool.description }}</p>
             <p class="tags">
-                <i v-for="platform in dimensions.platforms"
-                   :class="[platform.icon, { disabled: !containsTagOf(platform) }]"
-                   :title="platform.name">
-                </i>
                 <i v-for="license in dimensions.licenses"
                    :class="[license.icon, { disabled: !containsTagOf(license) }]"
                    :title="license.name">

@@ -5,7 +5,7 @@
         </div>
 
         <div class="menu">
-            <div v-for="name in ['topics', 'licenses', 'platforms', 'languages']">
+            <div v-for="name in ['topics', 'licenses', 'languages']">
                 <h3>{{ name }}</h3>
                 <div class="tag" v-for="item in dimensions[name]">
                     <nuxt-link class="toggle" :to="extraUrlFor(item)">
