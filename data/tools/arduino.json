@@ -1,0 +1,15 @@
+[
+  {
+    "slug": "arduino",
+    "name": "Arduino",
+    "description": "Open-source electronic prototyping platform enabling users to create interactive electronic objects.",
+    "url": "http://arduino.cc/",
+    "tags": [
+      "c",
+      "single-board",
+      "microcontroller",
+      "open-source",
+      "commercial"
+    ]
+  }
+]

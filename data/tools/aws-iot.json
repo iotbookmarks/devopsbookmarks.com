@@ -1,0 +1,12 @@
+[
+  {
+    "slug": "aws",
+    "name": "AWS IoT Platform",
+    "description": "AWS IoT is a managed cloud platform that lets connected devices easily and securely interact with cloud applications and other devices.",
+    "url": "https://aws.amazon.com/iot-platform/",
+    "tags": [
+      "platforms",
+      "commercial"
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "slug": "mdns",
+    "name": "mDNS",
+    "description": "mDNS resolves host names to IP addresses within small networks that do not include a local name server, suitable for IoT networks",
+    "url": "http://www.multicastdns.org/",
+    "tags": [
+      "service-discovery",
+      "open-source"
+    ]
+  }
+]
