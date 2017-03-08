@@ -1,9 +1,9 @@
-var cluster = require('cluster');
+const throng = require('throng');
 
-if (cluster.isMaster) {
-  var cpuCount = require('os').cpus().length;
-  for (var i=0; i < cpuCount; i++)
-    cluster.fork();
-} else {
+throng({
+  workers:  process.env.WEB_CONCURRENCY || require('os').cpus().length,
+  lifetime: Infinity
+}, (id) => {
+  console.log(`Starting worker: ${id}`);
   require('./server');
-}
+});

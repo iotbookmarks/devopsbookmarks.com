@@ -4,18 +4,19 @@
   "private": true,
   "dependencies": {
     "axios": "^0.15.3",
+    "bourbon": "^4.3.3",
     "compression": "^1.6.2",
     "express": "^4.14.1",
     "lodash": "^4.17.4",
     "morgan": "^1.8.1",
-    "nuxt": "latest",
-    "q": "^1.4.1",
-    "static-asset": "^0.6.0",
-    "walk": "^2.3.9",
-    "bourbon": "^4.3.3",
     "node-sass": "^4.5.0",
     "normalize-scss": "^6.0.0",
-    "sass-loader": "^6.0.2"
+    "nuxt": "latest",
+    "q": "^1.4.1",
+    "sass-loader": "^6.0.2",
+    "static-asset": "^0.6.0",
+    "throng": "^4.0.0",
+    "walk": "^2.3.9"
   },
   "scripts": {
     "build": "nuxt build",
