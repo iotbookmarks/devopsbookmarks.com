@@ -1,23 +1,34 @@
-[{
-  "name": "Platforms",
-  "slug": "platforms"
-},{
-  "name": "Single Board",
-  "slug": "single-board"
-},{
-  "name": "Microcontroller",
-  "slug": "microcontroller"
-},{
-  "name": "Computer",
-  "slug": "computer"
-},{
-  "name": "Service Discovery",
-  "slug": "service-discovery"
-}, {
-  "name": "Security & Hardening",
-  "slug": "security",
-  "include_tags": [ "security", "hardening" ]
-}, {
-  "name": "Error Tracking",
-  "slug": "errors"
-}]
+[
+  {
+    "name": "Circuit Breaker",
+    "slug": "circuit-breaker"
+  },
+  {
+    "name": "Computer",
+    "slug": "computer"
+  },
+  {
+    "name": "Microcontroller",
+    "slug": "microcontroller"
+  },
+  {
+    "name": "Platforms",
+    "slug": "platforms"
+  },
+  {
+    "name": "Service Discovery",
+    "slug": "service-discovery"
+  },
+  {
+    "name": "Single Board",
+    "slug": "single-board"
+  },
+  {
+    "name": "Security & Hardening",
+    "slug": "security",
+    "include_tags": [
+      "security",
+      "hardening"
+    ]
+  }
+]
